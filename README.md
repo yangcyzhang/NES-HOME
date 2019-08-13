@@ -7,3 +7,5 @@ Copyright EDISON
 Copyright (c) $today.year EDISON
 @author Yangcy
 @date   $today.format("yyyy年MM月")
+# gradle 调试
+gradlew compileDEbug --stacktrace
